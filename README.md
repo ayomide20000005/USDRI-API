@@ -50,7 +50,7 @@ distance_to_urban_center_km — straight-line distance from the sighting cluster
 
 **Paper**
 The full methodology is documented in the original paper published on Zenodo.
-DOI: 10.5281/zenodo.19245787
+DOI: [10.5281/zenodo.19245787](https://doi.org/10.5281/zenodo.19245787)
 
 Author
 Shuaib Alameen — Independent Researcher, Lagos, Nigeria

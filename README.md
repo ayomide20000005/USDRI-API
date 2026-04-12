@@ -7,7 +7,7 @@ The methodology aggregates four environmental variables into a single score from
 **Live API**
 https://usdri-api.onrender.com/docs
 
-**Note:** the API runs on Render's free tier, so the first request after a period of inactivity may take up to 50 seconds to respond. Subsequent requests are fast.
+**Note:** the API runs on Render's free tier, so the first request after a period of inactivity may take up to 50 seconds to respond Subsequent requests are fast.
 
 **Endpoints**
 POST /score/raw

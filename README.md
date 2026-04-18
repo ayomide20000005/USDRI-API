@@ -13,7 +13,7 @@ https://usdri-api.onrender.com/docs
 POST /score/raw
 Pass in your raw environmental measurements. The API handles normalization internally.
 POST /score/normalized
-Pass in already-normalized values between 0 and 25 per component if you have handled normalization on your end.
+Pass in already-normalized values between 0 and 25 per component if you have handled normalization on your end
 
 **How to use it**
 Using Python:

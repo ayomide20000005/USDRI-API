@@ -42,7 +42,7 @@ distance_to_urban_center_km — straight-line distance from the sighting cluster
 
 **Risk Bands**
 
-0 to 25 — Low — Routine monitoring
+0 to  25 — Low — Routine monitoring
 26 to 50 — Moderate — Increased surveillance
 51 to 75 — High — Targeted intervention
 76 to 100 — Critical — Emergency response

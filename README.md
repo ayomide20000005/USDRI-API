@@ -1,7 +1,6 @@
 **USDRI API**
 
-A deployed API that computes composite displacement risk scores from environmental variables using the Urban Snake Displacement Risk Index methodology, introduced in the paper Urban Snake Displacement Risk Index (USDRI): A Quantitative Framework for Measuring Displacement Pressure in Urbanizing Regions (Shuaib Alameen 2026)
-
+A deployed API that computes composite displacement risk scores from environmental variables using the Urban Snake Displacement Risk Index methodology, introduced in the paper Urban Snake Displacement Risk Index (USDRI): A Quantitative Framework for Measuring Displacement Pressure in Urbanizing Regions
 The methodology aggregates four environmental variables into a single score from 0 to 100, classified into four risk bands. Although the framework was originally developed for urban snake displacement research, the scoring logic is general enough to apply to any displacement risk context where the same four mechanisms are relevant.
 
 **Live API**
